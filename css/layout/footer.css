@@ -328,6 +328,10 @@
     justify-content: start;
   }
 
+  .footer-info-wrapper {
+    display: flex;
+  }
+
   .footer__subtitle-wrapper {
     margin-right: 120px;
   }
