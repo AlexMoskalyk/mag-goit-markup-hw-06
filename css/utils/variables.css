@@ -1,0 +1,21 @@
+:root {
+  /* text styles */
+  --main-font-family: Roboto, sans-serif;
+  --main-font-size: 16px;
+  --main-font-weight: 400;
+  --main-line-height: 1.5;
+  --main-letter-spacing: 2%;
+
+  /* colors  */
+  --pressed-state: #404bbf;
+  --primary-brand: #4d5ae5;
+  --text: #434455;
+  --subtle-text: #8e8f99;
+  --dark: #2e2f42;
+  --success: #31d0aa;
+  --accent: #e7e9fc;
+  --light: #f4f4fd;
+  --white-background: #ffffff;
+  --modal-background: #fcfcfc;
+  --navyblue-modal: rgba(46, 47, 66, 0.4);
+}
