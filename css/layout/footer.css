@@ -158,7 +158,7 @@
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1167px) {
+@media screen and (min-width: 768px) and (max-width: 1157px) {
   .footer {
     color: var(--light);
     padding-top: 100px;
@@ -171,6 +171,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    max-width: 584рх;
   }
   .nav-menu__logo__accent.footer-ver {
     color: var(--light, #f4f4fd);
@@ -314,7 +315,7 @@
   }
 }
 
-@media screen and (min-width: 1168px) {
+@media screen and (min-width: 1158px) {
   .footer {
     color: var(--light);
     padding-top: 100px;

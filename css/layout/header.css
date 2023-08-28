@@ -83,6 +83,8 @@
     position: relative;
     padding-top: 80px;
     padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 35px;
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -145,7 +147,7 @@
   }
 
   .contacts-link.tel {
-    font-size: 36px;
+    font-size: 24px;
     font-style: normal;
     font-weight: 700;
     line-height: 1.1;
@@ -169,7 +171,7 @@
 
   .social-links-list {
     display: flex;
-    column-gap: 56px;
+    column-gap: 28px;
   }
 
   .social-link {
@@ -193,7 +195,7 @@
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1167px) {
+@media screen and (min-width: 768px) and (max-width: 1157px) {
   .mobile-menu {
     display: none;
   }
@@ -303,7 +305,7 @@
   }
 }
 
-@media screen and (min-width: 1168px) {
+@media screen and (min-width: 1158px) {
   .mobile-menu {
     display: none;
   }

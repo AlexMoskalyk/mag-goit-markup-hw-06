@@ -27,7 +27,7 @@
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1167px) {
+@media screen and (min-width: 768px) and (max-width: 1157px) {
   .features__icon-wrraper {
     display: none;
   }
@@ -56,11 +56,10 @@
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--dark);
-    text-align: center;
   }
 }
 
-@media screen and (min-width: 1168px) {
+@media screen and (min-width: 1158px) {
   .features {
     padding-top: 120px;
     padding-bottom: 120px;

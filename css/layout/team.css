@@ -82,7 +82,7 @@
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1167px) {
+@media screen and (min-width: 768px) and (max-width: 1157px) {
   .team {
     background-color: var(--light);
     padding-top: 96px;
@@ -167,7 +167,7 @@
   }
 }
 
-@media screen and (min-width: 1168px) {
+@media screen and (min-width: 1158px) {
   .team {
     background-color: #f4f4fd;
     padding-top: 120px;

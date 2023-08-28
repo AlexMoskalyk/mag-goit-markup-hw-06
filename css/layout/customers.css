@@ -60,10 +60,14 @@
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1167px) {
+@media screen and (min-width: 768px) and (max-width: 1157px) {
   .customers {
     padding-top: 96px;
     padding-bottom: 96px;
+  }
+
+  .customers-container {
+    max-width: 584px;
   }
 
   .customers__title {
@@ -122,7 +126,7 @@
   }
 }
 
-@media screen and (min-width: 1168px) {
+@media screen and (min-width: 1158px) {
   .customers {
     padding-top: 120px;
     padding-bottom: 120px;
